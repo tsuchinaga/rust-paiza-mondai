@@ -1,0 +1,9 @@
+### for IntelliJ
+.idea
+*.iml
+
+/target
+
+*.exe
+*.pdb
+src/main.rs
